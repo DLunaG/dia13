@@ -1,0 +1,7 @@
+casa
+coche
+gato
+perro
+java
+abuelo
+abuela

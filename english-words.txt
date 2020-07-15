@@ -1,0 +1,7 @@
+house
+car
+cat
+dog
+java
+grandfather
+grandmother
