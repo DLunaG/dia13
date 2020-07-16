@@ -42,7 +42,7 @@ public class Traductor {
             option = sc.nextLine();
             if(option.equals("c") ){
                 power = false;
-                System.out.println("Gracias por utilizar este traductor chano.");
+                System.out.println("Gracias por utilizar este traductor chano. ");
             }
         }
 
