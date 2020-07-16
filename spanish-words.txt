@@ -1,0 +1,15 @@
+casa
+coche
+gato
+perro
+java
+abuelo
+abuela
+la
+el
+de
+mi
+tiene
+un
+y
+es
